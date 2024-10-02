@@ -46,6 +46,7 @@
         "foto": "https://github.com/user-attachments/assets/94574549-b540-4f42-a1af-29045c2239e8",
         "github": "https://github.com/JorojasD",
         "descr": "Propuesta de diseño futurista enfocado en una posibilidad"
+
     },
     {
         "nombre": "Colección Shibori",
@@ -56,21 +57,13 @@
         "descr": "Propuesta de diseño enfocada en aprovecha la tecnica del shibori"
     },
     {
-        "nombre": "Colección Oxido",
-        "fecha": "2023",
-        "signo": "Vestuario",
-        "foto": "https://github.com/user-attachments/assets/928b8734-7f64-44f2-a235-f63d797e0acd",
-        "github": "https://github.com/JorojasD",
-        "descr": "Diseño de una coleccion en conjunto a la marca lolita poket y elaboracion"
-    },
-    {
         "nombre": "Práctica LDK",
         "fecha": "2024",
         "signo": "Gráfico",
         "foto": "https://github.com/user-attachments/assets/683d8c89-681f-4765-aada-204f8491db2f",
         "github": "https://github.com/JorojasD",
         "descr": "Segunda experiencia laboral enfocada en el area grafica de la produccion de empaques y desarrollo de productos textiles de vestuario para Wallmart"
-    },
+    },    
     {
         "nombre": "KITU",
         "fecha": "2023",
@@ -78,21 +71,5 @@
         "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
-    },
-    {
-        "nombre": "Yo",
-        "fecha": "2002",
-        "signo": "About",
-        "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
-        "github": "https://github.com/JorojasD",
-        "descr": "Tengo 21 años..."
-    },
-    {
-        "nombre": "Mi Perro",
-        "fecha": "2018",
-        "signo": "About",
-        "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
-        "github": "https://github.com/JorojasD",
-        "descr": "No conocemos su edad"
     }
 ]
