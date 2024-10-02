@@ -1,1 +1,11 @@
 # dno096-Prueba2
+![ISCC](https://github.com/user-attachments/assets/dd4be4e1-13dc-4abf-9a22-54d2a666d334)
+![EQUITA](https://github.com/user-attachments/assets/e73bdc9d-b82d-4449-af26-bd7a046fc843)
+![CAUTIN](https://github.com/user-attachments/assets/9c29adf7-fbdd-46fb-b219-b52be13f9196)
+![AUTO](https://github.com/user-attachments/assets/2652f2e0-5cc2-4ecf-b737-0c5bea6d4484)
+![ATRAPANIEBLA](https://github.com/user-attachments/assets/51ea349b-12a1-4360-9881-a09254c69544)
+![AICAST](https://github.com/user-attachments/assets/94574549-b540-4f42-a1af-29045c2239e8)
+![SHIBORI](https://github.com/user-attachments/assets/16073b8f-f542-4cf0-a0a5-b840273cbc6a)
+![ÓXIDO](https://github.com/user-attachments/assets/54fbd7d6-200b-4094-a308-7da59dd38c54)
+![LDK](https://github.com/user-attachments/assets/683d8c89-681f-4765-aada-204f8491db2f)
+![KITU](https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66)
