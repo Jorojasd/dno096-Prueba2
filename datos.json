@@ -46,7 +46,6 @@
         "foto": "https://github.com/user-attachments/assets/e5762fb3-5523-4f98-bcdb-57f771cd1eea",
         "github": "https://github.com/JorojasD",
         "descr": "Frente a la propuesta de imaginar los diseños del futuro, se planteó una posible evolución de los medios de comunicación a partir del avance de la Inteligencia Artificial, tomando como objeto de estudio el formato PodCast."
-
     },
     {
         "nombre": "Colección Shibori",
@@ -63,7 +62,7 @@
         "foto": "https://github.com/user-attachments/assets/0b8598e0-7c43-4f99-8cfc-ea0b91928e8a",
         "github": "https://github.com/JorojasD",
         "descr": "Segunda experiencia laboral enfocada en el área gráfica de la producción de empaques y desarrollo de productos textiles de vestuario para empresas como FunMax o Wallmart"
-    },    
+    },
     {
         "nombre": "KITU",
         "fecha": "2023",
@@ -96,4 +95,5 @@
         "github": "https://github.com/JorojasD",
         "descr": "Primer proyecto industrial desarrollado en pandemia que utiliza planchas de aluminio pleadas para crear la estructura de la luminaria y al mismo tiempo controlar la intensidad de la luz."
     }
-] 
+]
+
