@@ -78,5 +78,21 @@
         "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
+    },
+    {
+        "nombre": "Yo",
+        "fecha": "2002",
+        "signo": "About",
+        "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
+        "github": "https://github.com/JorojasD",
+        "descr": "Tengo 21 años..."
+    },
+    {
+        "nombre": "Mi Perro",
+        "fecha": "2018",
+        "signo": "About",
+        "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
+        "github": "https://github.com/JorojasD",
+        "descr": "No conocemos su edad"
     }
 ]
