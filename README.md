@@ -6,6 +6,6 @@
 ![ATRAPANIEBLA](https://github.com/user-attachments/assets/51ea349b-12a1-4360-9881-a09254c69544)
 ![AICAST](https://github.com/user-attachments/assets/94574549-b540-4f42-a1af-29045c2239e8)
 ![SHIBORI](https://github.com/user-attachments/assets/16073b8f-f542-4cf0-a0a5-b840273cbc6a)
-![ÓXIDO](https://github.com/user-attachments/assets/54fbd7d6-200b-4094-a308-7da59dd38c54)
 ![LDK](https://github.com/user-attachments/assets/683d8c89-681f-4765-aada-204f8491db2f)
 ![KITU](https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66)
+![OXIDO](https://github.com/user-attachments/assets/928b8734-7f64-44f2-a235-f63d797e0acd)
