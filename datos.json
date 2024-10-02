@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Práctica ISCC",
+        "fecha": "2024",
+        "signo": "Gráfico",
+        "foto": "https://github.com/user-attachments/assets/dd4be4e1-13dc-4abf-9a22-54d2a666d334",
+        "github": "https://github.com/jorojas"
+    },
+    {
+        "nombre": "EQUITA",
+        "fecha": "2024",
+        "signo": "Servicio",
+        "foto": "https://github.com/user-attachments/assets/e73bdc9d-b82d-4449-af26-bd7a046fc843",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Estación Cautín",
+        "fecha": "2024",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/9c29adf7-fbdd-46fb-b219-b52be13f9196",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Auto MDF",
+        "fecha": "2024",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/2652f2e0-5cc2-4ecf-b737-0c5bea6d4484",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Mobiliario Atrapaniebla",
+        "fecha": "2023",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/51ea349b-12a1-4360-9881-a09254c69544",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "AICAST",
+        "fecha": "2024",
+        "signo": "Especulativo",
+        "foto": "https://github.com/user-attachments/assets/94574549-b540-4f42-a1af-29045c2239e8",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Colección Shibori",
+        "fecha": "2024",
+        "signo": "Vestuario",
+        "foto": "https://github.com/user-attachments/assets/16073b8f-f542-4cf0-a0a5-b840273cbc6a",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Colección óxido",
+        "fecha": "2023",
+        "signo": "Vestuario",
+        "foto": "https://github.com/user-attachments/assets/54fbd7d6-200b-4094-a308-7da59dd38c54",
+        "github": "https://github.com/valesawady"
+    },
+    {
+        "nombre": "Práctica LDK",
+        "fecha": "2024",
+        "signo": "Gráfico",
+        "foto": "https://github.com/user-attachments/assets/683d8c89-681f-4765-aada-204f8491db2f",
+        "github": "https://github.com/valesawady"
+    },    
+    {
+        "nombre": "KITU",
+        "fecha": "2023",
+        "signo": "Servicio",
+        "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
+        "github": "https://github.com/valesawady"
+    }
+]
