@@ -2,7 +2,7 @@
     {
         "nombre": "Práctica ISCC",
         "fecha": "2024",
-        "value": "portafolio de diseno grafico",
+        "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/dd4be4e1-13dc-4abf-9a22-54d2a666d334",
         "github": "https://github.com/JorojasD",
         "descr": "Primera experiencia laboral como"
@@ -10,7 +10,7 @@
     {
         "nombre": "EQUITA",
         "fecha": "2024",
-        "value": "portafolio de diseno servicio",
+        "signo": "servicio",
         "foto": "https://github.com/user-attachments/assets/e73bdc9d-b82d-4449-af26-bd7a046fc843",
         "github": "https://github.com/JorojasD",
         "descr": "Concurso de diseño como"
@@ -18,7 +18,7 @@
     {
         "nombre": "Estación Cautín",
         "fecha": "2024",
-        "value": "portafolio de diseno industrial",
+        "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/9c29adf7-fbdd-46fb-b219-b52be13f9196",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto CADCAM"
@@ -26,7 +26,7 @@
     {
         "nombre": "Auto MDF",
         "fecha": "2024",
-        "value": "portafolio de diseno industrial",
+        "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/2652f2e0-5cc2-4ecf-b737-0c5bea6d4484",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto CADCAM"
@@ -34,7 +34,7 @@
     {
         "nombre": "Atrapaniebla",
         "fecha": "2023",
-        "value": "portafolio de diseno industrial",
+        "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/51ea349b-12a1-4360-9881-a09254c69544",
         "github": "https://github.com/JorojasD",
         "descr": "Propuesta de diseño para el cerro RENCA"
@@ -42,7 +42,7 @@
     {
         "nombre": "AI-CAST",
         "fecha": "2024",
-        "value": "portafolio de diseno especulativo",
+        "signo": "especulativo",
         "foto": "https://github.com/user-attachments/assets/94574549-b540-4f42-a1af-29045c2239e8",
         "github": "https://github.com/JorojasD",
         "descr": "Propuesta de diseño futurista enfocado en una posibilidad"
@@ -51,7 +51,7 @@
     {
         "nombre": "Colección Shibori",
         "fecha": "2024",
-        "value": "portafolio de diseno vestuario",
+        "signo": "vestuario",
         "foto": "https://github.com/user-attachments/assets/16073b8f-f542-4cf0-a0a5-b840273cbc6a",
         "github": "https://github.com/JorojasD",
         "descr": "Propuesta de diseño enfocada en aprovecha la tecnica del shibori"
@@ -59,7 +59,7 @@
     {
         "nombre": "Práctica LDK",
         "fecha": "2024",
-        "value": "portafolio de diseno grafico",
+        "signo": "grafico",
         "foto": "https://github.com/user-attachments/assets/683d8c89-681f-4765-aada-204f8491db2f",
         "github": "https://github.com/JorojasD",
         "descr": "Segunda experiencia laboral enfocada en el area grafica de la produccion de empaques y desarrollo de productos textiles de vestuario para Wallmart"
@@ -67,7 +67,7 @@
     {
         "nombre": "KITU",
         "fecha": "2023",
-        "value": "portafolio de diseno servicio",
+        "signo": "servicio",
         "foto": "https://github.com/user-attachments/assets/2f1a6732-65c6-4eab-a1ba-f740d29fff66",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
@@ -75,7 +75,7 @@
     {
         "nombre": "Colección oxido",
         "fecha": "2023",
-        "value": "portafolio de diseno vestuario",
+        "signo": "vestuario",
         "foto": "https://github.com/user-attachments/assets/928b8734-7f64-44f2-a235-f63d797e0acd",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
@@ -83,7 +83,7 @@
     {
         "nombre": "Asistente Colombo",
         "fecha": "2022",
-        "value": "portafolio de diseno industrial",
+        "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/4a3e10c7-4c32-4306-ae54-f94dfec48cce",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
@@ -91,7 +91,7 @@
     {
         "nombre": "Luminaria Caravana",
         "fecha": "2021",
-        "value": "portafolio de diseno industrial",
+        "signo": "industrial",
         "foto": "https://github.com/user-attachments/assets/a913208c-bc38-4ce9-ba1c-f5023838e81d",
         "github": "https://github.com/JorojasD",
         "descr": "Proyecto de diseño colaborativo"
